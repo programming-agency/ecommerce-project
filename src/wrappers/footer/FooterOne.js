@@ -117,7 +117,7 @@ const FooterOne = ({
                 <ul>
                   <li>
                     <a
-                      href="//www.facebook.com"
+                      href="https://www.facebook.com/programming.agency23"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -126,7 +126,7 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.twitter.com"
+                      href="https://twitter.com/Programm_agency"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -135,7 +135,7 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.instagram.com"
+                      href="https://www.instagram.com/programming_agency"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -144,7 +144,7 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.youtube.com"
+                      href="https://www.youtube.com/@ProgrammingAgency"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
